@@ -1,2 +1,1 @@
-# asset-address-validator
-Cryptocurrency Asset Address Validation Tool
+# Cryptocurrencies Address Validation Tools
